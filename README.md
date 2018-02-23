@@ -26,7 +26,7 @@ Simple tableview scroller for cooking receipts loaded dynamically from static/re
 
 ### Observer Pattern
 
-* Through the use of Swift vocabulary "didSet" on variable definitions, inside these closures, for data corresponding to multiple UI parts in real time (e.g static Dictionaries in the Recipt class), I invoked delegate references.
+* Through the use of Swift vocabulary "didSet" on variable definitions, inside these closures, for data corresponding to multiple UI parts in real time (e.g static Dictionaries in the User class), I invoked delegate references.
 
 ### Delegation Pattern
 
@@ -62,4 +62,4 @@ Simple tableview scroller for cooking receipts loaded dynamically from static/re
 
 ## Too much time? (I took about 6-7 hours total)
 
-I considered necessary the time I took to complete this task. Firstly (to excuse me  ((: ) , I'm still suffering from my current work situation at the time of these implementation. Furthermore, I wanted to make sure, despite the poor interface developed, that I matched the description of the problem presented, **testing my code skills, going on the detail with a good overall architecture**.
+I considered necessary the time I took to complete this task. Firstly (to excuse me  ((: ) , I'm still suffering from my current work situation at the time of this implementation. Furthermore, I wanted to make sure, despite the poor interface developed, that I matched the description of the problem presented, **testing my code skills, going on the detail with a good overall architecture**.
